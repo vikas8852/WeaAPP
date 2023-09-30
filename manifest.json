@@ -1,0 +1,16 @@
+{
+    "name": "Weather App",
+    "short_name": "weather",
+    "description": "Fetch online weather data!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#BFACE2",
+    "theme_color": "#56067d",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
